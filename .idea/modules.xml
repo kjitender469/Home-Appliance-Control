@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Light_Control.iml" filepath="$PROJECT_DIR$/Light_Control.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Light_Control.iml" filepath="$PROJECT_DIR$/Light_Control.iml" group="Light_Control" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Light_Control/app" />
     </modules>
   </component>
 </project>
